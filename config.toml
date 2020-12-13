@@ -1,0 +1,19 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "KERNEL Blog"
+
+# Novela settings
+theme = "hugo-theme-novela"
+
+paginate = 6
+
+[social]
+twitter= "https://twitter.com/kernel0x"
+# github= "https://github.com/forestryio/novela-hugo-starter"
+# linkedin= "https://www.linkedin.com/company/forestry.io"
+# instagram = "#"
+# dribbble = "#"
+# youtube = "#"
+
+[taxonomies]
+author = "authors"
