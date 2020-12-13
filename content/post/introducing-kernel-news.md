@@ -1,5 +1,5 @@
 +++
-authors = []
+authors = ["Angela"]
 date = 2020-11-30T18:35:00Z
 excerpt = "Here begins KERNEL news, a quarterly update on how things are going in the KERNEL community"
 hero = "/uploads/screenshot-2020-12-13-at-7-45-37-pm.png"
