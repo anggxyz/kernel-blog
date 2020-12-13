@@ -4,9 +4,10 @@ date: 2020-05-21
 hero: "/images/post-heros/1.png"
 excerpt: Introducing a one of its kind network of brilliant people in Web3.
 authors:
-  - Angela
----
+- Sachin
+- Vivek
 
+---
 KERNEL is an 8-week, invite-only program for top tech talent looking to build relationships, products, and companies in blockchain and Web 3.
 
 100 talented peers from around the world will join the KERNEL this June, and will be surrounded by leading mentors from the Web3 community. Our goal is to provide KERNEL Fellows with opportunities to learn, build relationships, and provide funding opportunities for the products they build, both from Web 3 companies and investors. Apply here as an individual. Or apply here as a team.
@@ -65,4 +66,4 @@ While a project from each fellow is an expectation, the goal is to build lifelon
 
 If you’re considering KERNEL — we’d ask one question:
 
-> If you had 8 weeks with 150 great minds supporting you, what would you want to build? 
+> If you had 8 weeks with 150 great minds supporting you, what would you want to build?
