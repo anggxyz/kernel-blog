@@ -17,3 +17,5 @@ fields:
 - type: list
   name: authors
   label: authors
+pages:
+- content/post/introducing-kernel-news.md
