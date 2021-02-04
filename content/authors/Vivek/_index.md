@@ -1,6 +1,6 @@
 ---
 title: Vivek
-bio: "Vivek Singh"
+bio:
 avatar: "/images/vivek.png"
 featured: true
 social:
