@@ -1,5 +1,6 @@
 ---
 hero:
-  heading: Welcome to our Blog. The place where you'll find all updates from and for the network.
-  maxWidthPX: 952
+  heading: KERNEL Block III. Starts in May. [Apply here](https://google.com)
+  maxWidthPX: "952"
+
 ---
