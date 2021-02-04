@@ -1,7 +1,6 @@
 ---
 title: Angela
-bio: |
-  Angela Gilhotra
+bio:
 avatar: /images/angela-new.jpg
 featured: true
 social:
