@@ -1,9 +1,9 @@
 ---
 title: Sachin
 bio: |
-  Kid of Web3
+  Sachin Mittal
 avatar: /images/sachin.jpeg
-featured: false
+featured: true
 social:
   - title: twitter
     url: https://twitter.com/sm_judge
