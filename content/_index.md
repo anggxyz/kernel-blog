@@ -1,6 +1,6 @@
 ---
 hero:
-  heading: KERNEL Block III. Starts in May. [Apply here](https://google.com)
+  heading: KERNEL Block III - Starts in May
   maxWidthPX: "952"
 
 ---
