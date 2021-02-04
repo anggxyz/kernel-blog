@@ -1,7 +1,6 @@
 ---
 title: Sachin
-bio: |
-  Sachin Mittal
+bio:
 avatar: /images/sachin.jpeg
 featured: true
 social:
