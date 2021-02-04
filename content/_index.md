@@ -1,6 +1,6 @@
 ---
 hero:
-  heading: KERNEL Block III - Starts in May
+  heading: mempool of brilliant minds in Web3
   maxWidthPX: "952"
 
 ---
