@@ -1,7 +1,7 @@
 ---
 title: Angela
 bio: |
-  Crafting beautiful experiences at KERNEL ✨
+  Angela Gilhotra
 avatar: /images/angela-new.jpg
 featured: true
 social:
