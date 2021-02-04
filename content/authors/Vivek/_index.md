@@ -1,8 +1,8 @@
 ---
 title: Vivek
-bio: "COO Gitcoin. It all starts with a KERNEL \U0001F331\n"
+bio: "Vivek Singh"
 avatar: "/images/vivek.png"
-featured: false
+featured: true
 social:
 - title: twitter
   url: https://twitter.com/angelagilhotra
