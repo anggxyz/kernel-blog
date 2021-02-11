@@ -4,7 +4,6 @@ date: 2020-05-21
 hero: "/images/post-heros/1.png"
 excerpt: Introducing a one of its kind network of brilliant people in Web3.
 authors:
-- Sachin
 - Vivek
 
 ---
