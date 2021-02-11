@@ -3,7 +3,7 @@ title: Andy
 bio: |
   Cryptowanderer
 avatar: /images/andy.jpg
-featured: false
+featured: true
 social:
   - title: twitter
     url: https://twitter.com/cryptowanderer
