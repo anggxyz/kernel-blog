@@ -1,3 +1,4 @@
+
 ---
 title: Introducing KERNEL Block III
 date: 2021-02-16
@@ -21,9 +22,13 @@ KERNEL Alumni are:
 
 {{< applybutton >}}
 
-Apply by April 15th to join KERNEL Block III, starting on May 12th. We can’t wait to introduce you all to each other.
+Apply by April 15th to join KERNEL Block III, starting on May 12th. We can’t wait to introduce you all to each other
 
-![](https://lh5.googleusercontent.com/TLn_w22nvEEh1N90TRY_aNiBv3NqsrqcYCoruHaswehefRujc01-r-W1o6QXxcJvy1KaLA4tmhGVsQzgA-92oRN8vZH3NhXNKYD96HXmlXcUiy1ElY8MH5Lg2jYrtMFgPA64UVF- =572x324)
+{{< rawhtml >}}
+<div class="Image__Small">
+  <img src="/images/what-is-kernel.png" alt="KERNEL Explorer on Notion"/>
+</div>
+{{</ rawhtml >}}
 
 ## What is KERNEL, though?
 
@@ -51,6 +56,12 @@ In the KERNEL community, our constraints (like weekly readings, Tuesday build co
 
 Our only ask from you is only to show up and allow serendipity to happen. :)
 
+{{< rawhtml >}}
+<div class="Image__Small">
+  <img src="/images/fellows.png" alt="KERNEL Explorer on Notion"/>
+</div>
+{{</ rawhtml >}}
+
 ## Experiences from the previous Blocks
 
 ### Your KERNEL Adventures
@@ -61,7 +72,11 @@ We saw 150 adventures - regularly updated, kept track of with their own deadline
 
 Halfway through the Block 2 and we have adventures ranging from writing a phD thesis on crypto-culture to building a DAO to manage and safeguard green areas. There are infinite possibilities in between!
 
-![](https://lh4.googleusercontent.com/DmORTLHnvrQEHpzL5ejKaJFaAnJ79h6mt-FMw1CZDmENpJHDDLeTc2_haNvokHfB3lIw6ZS1PNg8SVkgH1uM2CsuXLfjgaGp2_1lPAAzB7A0zo5yWZk7zAHwkfdK8dRq-p4sCStR =599x343)
+{{< rawhtml >}}
+<div class="Image__Small">
+  <img src="/images/adventures.png"/>
+</div>
+{{</ rawhtml >}}
 
 ### Tracks
 
@@ -71,7 +86,11 @@ We saw mini-cohorts forming around these tracks -- which were led by DeFi Allian
 
 Having leading experts so willing to engage in the community has really encouraged us for the future tracks of KERNEL, based on the interests of KERNEL Fellows.
 
-![](https://lh3.googleusercontent.com/1N_EePw0RcEOgrxnB0x_FbVe6R67ibJmWjxbExv4c6TSgBuuVPakdtFNR0Vxdba8HDe0CWk3CB8OJ0xdu2JpqcebQxipShUNgQtzbJcY1a00njTXEMP0-LgIGd1Qy3IQWgygyIxZ =368x323)
+{{< rawhtml >}}
+<div class="Image__Small">
+  <img src="/images/tracks.png"/>
+</div>
+{{</ rawhtml >}}
 
 ### Juntos + Slack
 
@@ -79,7 +98,11 @@ Now, to spark conversation amongst these adventurers (& inspired by Benjamin Fra
 
 This was truly a heartwarming experience for us, seeing at least 30 scheduled juntos over the course of 4 weeks. Each conversation is structured around one topic and some reading material.  This we believe is just the tip of what a peer to peer learning environment might look like.
 
-![](https://lh6.googleusercontent.com/SXCjOTvFQFBF_mvDh1p3whpGjkrh3LjA_qiDw1XLY8aN_7zivGNw4_B27EkHkF1fkAZkMByZHWHzt6qpGV381pN62QW1YAjY-239fConstEpQshLcslb0JfuktXfelLLR7GQ-vbW =612x351)
+{{< rawhtml >}}
+<div class="Image__Small">
+  <img src="/images/juntos.png"/>
+</div>
+{{</ rawhtml >}}
 
 ## KERNEL Block III: Apply
 
