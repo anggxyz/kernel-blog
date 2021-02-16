@@ -23,8 +23,6 @@ KERNEL Alumni are:
 
 Apply by April 15th to join KERNEL Block III, starting on May 12th. We can’t wait to introduce you all to each other
 
-![](https://lh5.googleusercontent.com/TLn_w22nvEEh1N90TRY_aNiBv3NqsrqcYCoruHaswehefRujc01-r-W1o6QXxcJvy1KaLA4tmhGVsQzgA-92oRN8vZH3NhXNKYD96HXmlXcUiy1ElY8MH5Lg2jYrtMFgPA64UVF- "kernel network" =572x324)
-
 ## What is KERNEL, though?
 
 KERNEL started as an experiment. What would happen if we got \~200 incredibly talented builders interested in crypto, from a variety of incredible backgrounds, and put them in a room together for 8 weeks?
@@ -61,8 +59,6 @@ We saw 150 adventures - regularly updated, kept track of with their own deadline
 
 Halfway through the Block 2 and we have adventures ranging from writing a phD thesis on crypto-culture to building a DAO to manage and safeguard green areas. There are infinite possibilities in between!
 
-![adventure](https://lh4.googleusercontent.com/DmORTLHnvrQEHpzL5ejKaJFaAnJ79h6mt-FMw1CZDmENpJHDDLeTc2_haNvokHfB3lIw6ZS1PNg8SVkgH1uM2CsuXLfjgaGp2_1lPAAzB7A0zo5yWZk7zAHwkfdK8dRq-p4sCStR "adventure" =599x343)
-
 ### Tracks
 
 Setting down a path for these adventures to stride on was what we tried to achieve through the introduction of tracks. While Genesis Block focused on the core of what KERNEL is, KB2 melded into more focused tracks, focusing on niches in web3 that were a top priority for the cohort.
@@ -71,15 +67,11 @@ We saw mini-cohorts forming around these tracks -- which were led by DeFi Allian
 
 Having leading experts so willing to engage in the community has really encouraged us for the future tracks of KERNEL, based on the interests of KERNEL Fellows.
 
-![tracks](https://lh3.googleusercontent.com/1N_EePw0RcEOgrxnB0x_FbVe6R67ibJmWjxbExv4c6TSgBuuVPakdtFNR0Vxdba8HDe0CWk3CB8OJ0xdu2JpqcebQxipShUNgQtzbJcY1a00njTXEMP0-LgIGd1Qy3IQWgygyIxZ "tracks" =368x323)
-
 ### Juntos + Slack
 
 Now, to spark conversation amongst these adventurers (& inspired by Benjamin Franklin), we set two goals for us: Improve ourselves and improve the world - one constructive conversation at a time.
 
 This was truly a heartwarming experience for us, seeing at least 30 scheduled juntos over the course of 4 weeks. Each conversation is structured around one topic and some reading material.  This we believe is just the tip of what a peer to peer learning environment might look like.
-
-![juntos](https://lh6.googleusercontent.com/SXCjOTvFQFBF_mvDh1p3whpGjkrh3LjA_qiDw1XLY8aN_7zivGNw4_B27EkHkF1fkAZkMByZHWHzt6qpGV381pN62QW1YAjY-239fConstEpQshLcslb0JfuktXfelLLR7GQ-vbW "juntos" =612x351)
 
 ## KERNEL Block III: Apply
 
