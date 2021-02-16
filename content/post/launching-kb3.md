@@ -38,6 +38,12 @@ The KERNEL Fellowship was designed using the principles we learned from our open
 
 The results of the experiment have been incredible. We’ve seen budding relationships, extraordinary projects, and plethora of shared conversations all taking shape inside the community.
 
+{{< rawhtml >}}
+<div class="Image__Small">
+  <img src="/images/testimonials.png"/>
+</div>
+{{</ rawhtml >}}
+
 KERNEL Genesis Block alumni have collectively raised a total of $10MM+ in funding, more importantly, they’ve collectively formed a million more shared memories from the interactions.
 
 The essence of KERNEL is the community we curate for each member.
