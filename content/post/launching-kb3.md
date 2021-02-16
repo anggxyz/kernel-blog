@@ -21,7 +21,7 @@ KERNEL Alumni are:
 
 {{< applybutton >}}
 
-Apply by April 15th to join KERNEL Block III, starting on May 12th. We can’t wait to introduce you all to each other.
+Apply by April 15th to join KERNEL Block III, starting on May 12th. We can’t wait to introduce you all to each other
 
 ![](https://lh5.googleusercontent.com/TLn_w22nvEEh1N90TRY_aNiBv3NqsrqcYCoruHaswehefRujc01-r-W1o6QXxcJvy1KaLA4tmhGVsQzgA-92oRN8vZH3NhXNKYD96HXmlXcUiy1ElY8MH5Lg2jYrtMFgPA64UVF- =572x324)
 
