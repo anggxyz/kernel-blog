@@ -17,5 +17,3 @@ fields:
 - type: list
   name: authors
   label: authors
-pages:
-- content/post/introducing-kernel-block-iii.md
