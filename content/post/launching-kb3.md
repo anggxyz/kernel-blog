@@ -1,4 +1,3 @@
-
 ---
 title: Introducing KERNEL Block III
 date: 2021-02-16
@@ -6,6 +5,7 @@ hero: "/images/post-heros/3.png"
 excerpt: Third iteration in building an open, peer to peer, lifelong network of the
   most talented individuals in the blockchain space.
 authors:
+- Vivek
 - Angela
 
 ---
