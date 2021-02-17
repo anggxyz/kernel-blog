@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://blog.kernel.community/"
 languageCode = "en-us"
 title = "KERNEL Blog"
 
