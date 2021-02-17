@@ -14,7 +14,7 @@ seo:
   description: "Apply by April 15th to join KERNEL Block III, starting on May 12th. It is free to apply, and $400 (~$1200 for teams) to join the co-op for accepted KERNEL Fellows, with scholarships available for students and underrepresented communities."
 
 ---
-The KERNEL Fellowship is an 8 week program introducing 200 KB3 Fellows to the KERNEL, a thriving peer-to-peer community of 600 (and counting!) of the most talented and creative crypto-curious builders from around the World Wide Web.
+The KERNEL Fellowship is an 8 week program introducing 200 KB3 Fellows to the KERNEL network, a thriving peer-to-peer community of 600 (and counting!) of the most talented and creative crypto-curious builders from around the World Wide Web.
 
 KERNEL Alumni are:
 
@@ -31,7 +31,7 @@ Apply by April 15th to join KERNEL Block III, starting on May 12th. We can’t w
 
 {{< rawhtml >}}
 <div class="Image__Small">
-  <img src="/images/what-is-kernel.png" alt="KERNEL Explorer on Notion"/>
+<img src="/images/what-is-kernel.png" alt="KERNEL Explorer on Notion"/>
 </div>
 {{</ rawhtml >}}
 
@@ -43,11 +43,7 @@ The KERNEL Fellowship was designed using the principles we learned from our open
 
 The results of the experiment have been incredible. We’ve seen budding relationships, extraordinary projects, and plethora of shared conversations all taking shape inside the community.
 
-{{< rawhtml >}}
-<div class="Image__Small">
-  <img src="/images/testimonials.png"/>
-</div>
-{{</ rawhtml >}}
+{{< rawhtml >}} <div class="Image__Medium"> <img src="/images/testimonials.png"/> </div> {{</ rawhtml >}}
 
 KERNEL Genesis Block alumni have collectively raised a total of $10MM+ in funding, more importantly, they’ve collectively formed a million more shared memories from the interactions.
 
@@ -60,16 +56,16 @@ The essence of KERNEL is the community we curate for each member.
 
 With two blocks completed, we can proudly say, KERNEL is already a proven & powerful community that will bridge the gap between you and what you want to achieve in this ever growing crypto-space. It will provide you, first and foremost, with a trust space. It’s a space where you can be sure:
 
-* You will meet 200 incredible people, many of whom we hope become your friends and confidants, first and foremost
+* You will meet 200 incredible people, many of whom we hope become your friends and confidants.
 * You will be lead through a curated journey of 8 weeks - learning about web 3, enjoying the company of your cohort, and exploring your internal relationship with the technologies we’re building
 
 In the KERNEL community, our constraints (like weekly readings, Tuesday build courses, and Thursday Firesides) are meant just enough to let your personal creativity take its course.
 
-Our only ask from you is only to show up and allow serendipity to happen. :)
+Our only ask from you is to show up and allow serendipity to happen. :)
 
 {{< rawhtml >}}
 <div class="Image__Small">
-  <img src="/images/fellows.png" alt="KERNEL Explorer on Notion"/>
+<img src="/images/fellows.png" alt="KERNEL Explorer on Notion"/>
 </div>
 {{</ rawhtml >}}
 
@@ -77,7 +73,7 @@ Our only ask from you is only to show up and allow serendipity to happen. :)
 
 ### Your KERNEL Adventures
 
-With KB2, we saw a shift in focus towards individual journeys through the collective KERNEL. We saw each fellow’s journey as unique as the human behind it & wanted it represented as such - hence, KERNEL Adventures.
+With Block 2, we saw a shift in focus towards individual journeys through the collective KERNEL. We saw each fellow’s journey as unique as the human behind it & wanted it represented as such - hence, KERNEL Adventures.
 
 We saw 150 adventures - regularly updated, kept track of with their own deadlines & unique milestones. It was like OKRs on steroids, in a group environment. This quickly became the one reference point to view what each fellow was working on.
 
@@ -85,13 +81,13 @@ Halfway through the Block 2 and we have adventures ranging from writing a phD th
 
 {{< rawhtml >}}
 <div class="Image__Small">
-  <img src="/images/adventures.png"/>
+<img src="/images/adventures.png"/>
 </div>
 {{</ rawhtml >}}
 
 ### Tracks
 
-Setting down a path for these adventures to stride on was what we tried to achieve through the introduction of tracks. While Genesis Block focused on the core of what KERNEL is, KB2 melded into more focused tracks, focusing on niches in web3 that were a top priority for the cohort.
+Setting down a path for these adventures to stride on was what we tried to achieve through the introduction of tracks. While Genesis Block focused on the core of what KERNEL is, Block 2 melded into more focused tracks, focusing on niches in web3 that were a top priority for the cohort.
 
 We saw mini-cohorts forming around these tracks -- which were led by DeFi Alliance (DeFi), IDEO (Fairlaunch), YFI / Status (Security), and OP Games (Gaming).
 
@@ -99,19 +95,19 @@ Having leading experts so willing to engage in the community has really encourag
 
 {{< rawhtml >}}
 <div class="Image__Small">
-  <img src="/images/tracks.png"/>
+<img src="/images/screenshot-2021-02-17-at-1-29-06-pm.png"/>
 </div>
 {{</ rawhtml >}}
 
-### Juntos + Slack
+### Juntos & Slack
 
 Now, to spark conversation amongst these adventurers (& inspired by Benjamin Franklin), we set two goals for us: Improve ourselves and improve the world - one constructive conversation at a time.
 
-This was truly a heartwarming experience for us, seeing at least 30 scheduled juntos over the course of 4 weeks. Each conversation is structured around one topic and some reading material.  This we believe is just the tip of what a peer to peer learning environment might look like.
+This was a truly heartwarming experience for us, seeing at least 30 scheduled juntos over the course of 4 weeks. Each conversation is structured around one topic and some reading material.  This we believe is just the tip of what a peer to peer learning environment might look like.
 
 {{< rawhtml >}}
 <div class="Image__Small">
-  <img src="/images/juntos.png"/>
+<img src="/images/juntos.png"/>
 </div>
 {{</ rawhtml >}}
 
