@@ -7,11 +7,13 @@ excerpt: Third iteration in building an open, peer to peer, lifelong network of 
 authors:
 - Vivek
 - Angela
-
 seo:
   title: Introducing KERNEL Block III
-  image: "https://blog.kernel.community/images/post-heros/3.png"
-  description: "Apply by April 15th to join KERNEL Block III, starting on May 12th. It is free to apply, and $400 (~$1200 for teams) to join the co-op for accepted KERNEL Fellows, with scholarships available for students and underrepresented communities."
+  image: https://blog.kernel.community/images/post-heros/3.png
+  description: Apply by April 15th to join KERNEL Block III, starting on May 12th.
+    It is free to apply, and $400 (~$1200 for teams) to join the co-op for accepted
+    KERNEL Fellows, with scholarships available for students and underrepresented
+    communities.
 
 ---
 The KERNEL Fellowship is an 8 week program introducing 200 KB3 Fellows to the KERNEL network, a thriving peer-to-peer community of 600 (and counting!) of the most talented and creative crypto-curious builders from around the World Wide Web.
@@ -27,7 +29,7 @@ KERNEL Alumni are:
 
 {{< applybutton >}}
 
-Apply by April 15th to join KERNEL Block III, starting on May 12th. We can’t wait to introduce you all to each other
+Apply by April 15th to join KERNEL Block III, starting on May 12th. It is **free to apply**, and $400 (\~$1200 for teams) to join the co-op for accepted KERNEL Fellows, with [scholarships](https://gitcoin.co/blog/t-kernel-scholarship/) available for students and underrepresented communities. We can’t wait to introduce you all to each other.
 
 {{< rawhtml >}}
 <div class="Image__Small">
