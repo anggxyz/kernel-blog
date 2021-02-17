@@ -82,7 +82,7 @@ Halfway through the Block 2 and we have adventures ranging from writing a phD th
 
 ### Tracks
 
-Setting down a path for these adventures to stride on was what we tried to achieve through the introduction of tracks. While Genesis Block focused on the core of what KERNEL is, KB2 melded into more focused tracks, focusing on niches in web3 that were a top priority for the cohort.
+Setting down a path for these adventures to stride on was what we tried to achieve through the introduction of tracks. While Genesis Block focused on the core of what KERNEL is, Block 2 melded into more focused tracks, focusing on niches in web3 that were a top priority for the cohort.
 
 We saw mini-cohorts forming around these tracks -- which were led by DeFi Alliance (DeFi), IDEO (Fairlaunch), YFI / Status (Security), and OP Games (Gaming).
 
@@ -90,15 +90,15 @@ Having leading experts so willing to engage in the community has really encourag
 
 {{< rawhtml >}}
 <div class="Image__Small">
-<img src="/images/tracks.png"/>
+<img src="/images/screenshot-2021-02-17-at-1-29-06-pm.png"/>
 </div>
 {{</ rawhtml >}}
 
-### Juntos + Slack
+### Juntos & Slack
 
 Now, to spark conversation amongst these adventurers (& inspired by Benjamin Franklin), we set two goals for us: Improve ourselves and improve the world - one constructive conversation at a time.
 
-This was truly a heartwarming experience for us, seeing at least 30 scheduled juntos over the course of 4 weeks. Each conversation is structured around one topic and some reading material.  This we believe is just the tip of what a peer to peer learning environment might look like.
+This was a truly heartwarming experience for us, seeing at least 30 scheduled juntos over the course of 4 weeks. Each conversation is structured around one topic and some reading material.  This we believe is just the tip of what a peer to peer learning environment might look like.
 
 {{< rawhtml >}}
 <div class="Image__Small">
