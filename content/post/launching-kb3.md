@@ -119,4 +119,12 @@ We are excited to launch KERNEL Block III. With proof of work for two blocks, we
 
 Our opportunity, collectively, is to create an institution which serves to explore, through lived experiences, what it means to build a better web as it relates to us all.
 
-{{< applybutton >}}
+{{< rawhtml >}}
+
+<br/>
+<center>
+    <a href="https://form.typeform.com/to/Sy0qlDwu" target="_new" style="display:inline-block;text-decoration:none;background-color:#01DE6F;color:white;cursor:pointer;font-family:Helvetica,Arial,sans-serif;font-size:17px;line-height:42.5px;text-align:center;margin:0 0 0 10px;height:42.5px;padding:0px 28px;border-radius:9px;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:bold;">Apply Now</a> 
+</center>
+<br/><br/>
+
+{{</ rawhtml >}}
