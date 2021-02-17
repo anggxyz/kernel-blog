@@ -7,6 +7,13 @@ excerpt: Third iteration in building an open, peer to peer, lifelong network of 
 authors:
 - Vivek
 - Angela
+seo:
+  title: Introducing KERNEL Block III
+  image: https://blog.kernel.community/images/post-heros/3.png
+  description: Apply by April 15th to join KERNEL Block III, starting on May 12th.
+    It is free to apply, and $400 (~$1200 for teams) to join the co-op for accepted
+    KERNEL Fellows, with scholarships available for students and underrepresented
+    communities.
 
 ---
 The KERNEL Fellowship is an 8 week program introducing 200 KB3 Fellows to the KERNEL network, a thriving peer-to-peer community of 600 (and counting!) of the most talented and creative crypto-curious builders from around the World Wide Web.
@@ -22,7 +29,7 @@ KERNEL Alumni are:
 
 {{< applybutton >}}
 
-Apply by April 15th to join KERNEL Block III, starting on May 12th. We can’t wait to introduce you all to each other
+Apply by April 15th to join KERNEL Block III, starting on May 12th. It is **free to apply**, and $400 (\~$1200 for teams) to join the co-op for accepted KERNEL Fellows, with [scholarships](https://gitcoin.co/blog/t-kernel-scholarship/) available for students and underrepresented communities. We can’t wait to introduce you all to each other.
 
 {{< rawhtml >}}
 <div class="Image__Small">
@@ -112,4 +119,12 @@ We are excited to launch KERNEL Block III. With proof of work for two blocks, we
 
 Our opportunity, collectively, is to create an institution which serves to explore, through lived experiences, what it means to build a better web as it relates to us all.
 
-{{< applybutton >}}
+{{< rawhtml >}}
+
+<br/>
+<center>
+    <a href="https://form.typeform.com/to/Sy0qlDwu" target="_new" style="display:inline-block;text-decoration:none;background-color:#01DE6F;color:white;cursor:pointer;font-family:Helvetica,Arial,sans-serif;font-size:17px;line-height:42.5px;text-align:center;margin:0 0 0 10px;height:42.5px;padding:0px 28px;border-radius:9px;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:bold;">Apply Now</a> 
+</center>
+<br/><br/>
+
+{{</ rawhtml >}}
