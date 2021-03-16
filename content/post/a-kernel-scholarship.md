@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2021-03-15T18:34:00Z
-draft = true
 excerpt = ""
 hero = "/images/kernel_dv2.webp"
 title = "A KERNEL Scholarship"
